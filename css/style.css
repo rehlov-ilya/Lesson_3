@@ -1,0 +1,43 @@
+a{
+color: yellow;
+}
+h1{
+	color: crimson;
+}
+ul{
+	color: chartreuse;
+}
+li{
+	color: rgb(206, 189, 40);
+}
+
+.text_footbolka{
+	color: blue;
+}
+.text_mayka{
+	color: aqua;
+}
+h3{
+	color: blueviolet;
+}
+.text_Traser{
+	color: cyan;
+}
+.text_remen{
+	color: deeppink;
+}
+.text_shoose{
+	color: indigo;
+}
+#section-5, #section-3{
+	color: chartreuse;
+}
+#section-4,#section-2{
+	color: rgb(10, 240, 113);
+}
+span{
+color: rgb(233, 8, 222);
+	}
+[class*=_footbolka]{
+		color: rgb(219, 14, 238);
+}
